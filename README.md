@@ -1,2 +1,6 @@
 # find-close-meteorites
-Demo Project
+Project that uses NASA data to find the meteor landing
+
+## Running
+
+'python find_meteors.py'
