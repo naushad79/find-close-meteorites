@@ -7,5 +7,7 @@ Project that uses NASA data to find the meteor landing
 
 First, Install pipenv
 
+'''
 pipenv Install
 pipenv run "python find_meteors.py"
+'''
